@@ -1,3 +1,5 @@
+https://acodea23.github.io/data_science_portfolio/
+
 #### I am a student at Brigham Young University studying statistics
 I have taken classes in data science ecosystems, linear models, statistical theory, linear algebra, and coding (python and R)
 
