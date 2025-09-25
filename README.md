@@ -1,5 +1,6 @@
 #### My website hosting my data science portfolio
 https://acodea23.github.io/data_science_portfolio/
+  A [blogpost](https://acodea23.github.io/data_science_portfolio/projects/blog_post.html) I'm making about model sensitivity
 
 #### I am a student at Brigham Young University studying statistics
 I have taken classes in data science ecosystems, linear models, statistical theory, linear algebra, and coding (python and R)
